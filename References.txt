@@ -1,0 +1,3 @@
+https://medium.com/analytics-vidhya/categorical-encoding-in-feature-engineering-8f9e24737e48#:~:text=When%20one%20hot%20encoding%20categorical,it%20avoids%20introducing%20redundant%20information.
+https://thinkingneuron.com/how-to-visualize-data-distribution-of-a-continuous-variable-in-python/
+https://jovian.com/titusib48/03-titanic-survival-pipeline-assignment
